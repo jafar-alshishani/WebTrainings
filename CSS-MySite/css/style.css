@@ -1,3 +1,31 @@
 body {
     background-color: #CCCCCC;
+    margin: 0;
+    padding: 0;
+}
+
+
+.top-container {
+    width: 200px;
+    height: 200px;
+    background-color: #e3e3e3;
+    /*outline: #66bfbf 1px solid;*/
+    border: 10px slateblue solid;
+    padding: 20px;
+}
+
+.middle-container {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 20px black solid;
+    margin-left: 260px;
+}
+
+.bottom-container {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: 10px black solid;
+    margin-left: 500px;
 }
